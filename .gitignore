@@ -4,4 +4,5 @@ pretrained_models
 segments
 temp
 long_convo.wav
+greek_convo_short.wav
 .env

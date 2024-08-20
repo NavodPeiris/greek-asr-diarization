@@ -1,6 +1,6 @@
 from speechlib import Transcriptor
 
-file = "long_convo.mp3"  # your audio file
+file = "greek_convo_short.mp3"  # your audio file
 voices_folder = "" # voices folder containing voice samples for recognition
 language = "el"          # language code
 log_folder = "logs"      # log folder for storing transcripts
